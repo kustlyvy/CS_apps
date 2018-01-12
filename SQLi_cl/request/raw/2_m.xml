@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Session SID="80" BitFlags="90">
+  <SessionTimers ClientConnected="2016-07-15T17:11:43.1625447+03:00" ClientBeginRequest="2016-07-15T17:11:43.1650485+03:00" GotRequestHeaders="2016-07-15T17:11:43.1650485+03:00" ClientDoneRequest="2016-07-15T17:11:43.1650485+03:00" GatewayTime="0" DNSTime="0" TCPConnectTime="0" HTTPSHandshakeTime="0" ServerConnected="2016-07-15T17:09:21.0669966+03:00" FiddlerBeginRequest="2016-07-15T17:11:43.1650485+03:00" ServerGotRequest="2016-07-15T17:11:43.1650485+03:00" ServerBeginResponse="2016-07-15T17:11:47.04551+03:00" GotResponseHeaders="2016-07-15T17:11:47.04551+03:00" ServerDoneResponse="2016-07-15T17:11:47.0460109+03:00" ClientBeginResponse="2016-07-15T17:11:47.0460109+03:00" ClientDoneResponse="2016-07-15T17:11:47.0460109+03:00" />
+  <PipeInfo Reused="true" />
+  <SessionFlags>
+    <SessionFlag N="x-egressport" V="47618" />
+    <SessionFlag N="x-responsebodytransferlength" V="56" />
+    <SessionFlag N="x-clientport" V="0" />
+    <SessionFlag N="x-clientip" V="" />
+    <SessionFlag N="x-builder-maxredir" V="10" />
+    <SessionFlag N="x-from-builder" V="Parsed" />
+    <SessionFlag N="x-hostip" V="::1" />
+    <SessionFlag N="x-serversocket" V="REUSE ServerPipe#29" />
+    <SessionFlag N="x-processinfo" V="fiddler:28596" />
+  </SessionFlags>
+</Session>

@@ -1,0 +1,15 @@
+﻿Today
+Tomorrow
+Yesterday
+Current Week
+Current Month
+Current Quarter
+Current Year
+Last Week
+Last month
+Last quarter
+Last year
+Last 30 days
+Last 12 months
+Next Week
+Next Month

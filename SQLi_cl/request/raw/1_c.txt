@@ -1,0 +1,16 @@
+POST http://localhost:45444/DoctorEx/SaveList HTTP/1.1
+User-Agent: Fiddler
+Content-Type: application/json
+Host: localhost:45444
+Content-Length: 155
+
+{
+  "List": [
+    {
+      "FirstName": "Test Doctor",
+      "LastName": "Test",
+      "ProviderId": "123456",
+      "MiddleName": null
+    }
+  ]
+}

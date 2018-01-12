@@ -1,0 +1,18 @@
+HTTP/1.1 200 OK
+Cache-Control: no-cache
+Pragma: no-cache
+Content-Type: application/json; charset=utf-8
+Expires: -1
+Server: Microsoft-IIS/10.0
+X-AspNet-Version: 4.0.30319
+Set-Cookie: .ASPXAUTH=; expires=Mon, 11-Oct-1999 21:00:00 GMT; path=/; HttpOnly
+X-SourceFiles: =?UTF-8?B?ZTpcUFJPSkVDVFNcQ29sbGVjdGlvblN5c3RlbVxDb2xsZWN0aW9uU3lzdGVtX1NlcnZlclxDb2xsZWN0aW9uU3lzdGVtLlNlcnZlclxDb2xsZWN0aW9uU3lzdGVtLlNlcnZlci5XZWJcRG9jdG9yRXhcU2F2ZUxpc3Q=?=
+Access-Control-Allow-Origin: http://localhost:12223
+Access-Control-Allow-Methods: GET, PUT, POST, DELETE, HEAD, OPTIONS
+Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept, .ASPXAUTH, __RequestVerificationToken
+Access-Control-Expose-Headers: .ASPXAUTH, Expired, __RequestVerificationToken
+Access-Control-Allow-Credentials: true
+Date: Fri, 15 Jul 2016 14:11:47 GMT
+Content-Length: 56
+
+{"Model":[1],"Status":true,"Message":null,"Errors":null}
